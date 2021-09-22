@@ -72,7 +72,7 @@ input[type="text"]{
 }
 
 input[type="submit"]{
-  /* display:inline;
+  display:inline;
   margin:0 0 0 -4px;
   border:0;
   box-shadow: 0 12px 25px 0 #99a3a921, 0 4px 12px 0 #9aa4a91e ;
@@ -80,5 +80,5 @@ input[type="submit"]{
   padding:10px 20px;
   background-color: #11d9dc;
   font-weight: 600;
-  color:white; */
+  color:white;
 }
