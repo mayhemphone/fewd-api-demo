@@ -1,6 +1,6 @@
 console.log('hello world');
 
-const baseUrl = 'https://api.tvmaze.com';
+const baseUrl = 'http://api.tvmaze.com';
 const endpoint = '/search/shows';
 const root = document.querySelector('#root');
 const resultsDiv = document.querySelector('#results');
